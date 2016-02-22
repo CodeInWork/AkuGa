@@ -23,3 +23,8 @@ Es ist bereits spielbar, aber noch nicht komplett. So fehlen noch grundsätzlich
 ansprechende Benutzeroberfläche. Letztere existiert derzeit nur auf dem Papier. 
 Hintergrundgeräuschen und -musik werden von Mort Ohnesorg (Künstlername, SoundCloud: https://soundcloud.com/mort-ohnesorg) designed
 und befinden sich ebenfalls in der Entwicklung.
+
+Fortsetzung
+
+Ein Open-Source-Editor ist in Planung. Er soll es jedem erlauben seine eigenen Akustischen Spiele zu entwerfen und mit eigenen Aufnahmen bzw. Sounds zu verwirklichen. Dazu ist muss die derzeitige Version jedoch zunächst intensiv getestet werden.
+Die Möglichkeit für Quicktime-Events und Rätseleinlagen (Eingabeaufforderung etc.) soll implementiert werden.
