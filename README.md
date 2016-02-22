@@ -21,7 +21,7 @@ Entwicklungsstand
 
 Es ist bereits spielbar, aber noch nicht komplett. So fehlen noch grundsätzliche Funktionen wie Pausieren und Speichern, sowie eine 
 ansprechende Benutzeroberfläche. Letztere existiert derzeit nur auf dem Papier. 
-Hintergrundgeräuschen und -musik werden von Mort Ohnesorg (Künstlername, SoundCloud: https://soundcloud.com/mort-ohnesorg) designed
+Hintergrundgeräusche und -musik werden von Mort Ohnesorg (Künstlername, SoundCloud: https://soundcloud.com/mort-ohnesorg) designed
 und befinden sich ebenfalls in der Entwicklung.
 
 Fortsetzung
